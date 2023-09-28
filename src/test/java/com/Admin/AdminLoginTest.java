@@ -1,5 +1,10 @@
 package com.Admin;
 
-public class AdminLoginTest {
+import org.testng.annotations.Test;
 
+public class AdminLoginTest {
+@Test
+public void admin() {
+	
+}
 }
